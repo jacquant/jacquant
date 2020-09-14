@@ -12,7 +12,7 @@
 
 - 💻 &nbsp; Python | Java | Scala | Dart | Django | Play Framework
 - 🌐 &nbsp; HTML | CSS | JavaScript | VueJs | Nuxt | Vuetify | Angular
-- 🛢 &nbsp; MySQL | MongoDB | Redis | PostgreSQL
+- 🛢 &nbsp; MySQL | MongoDB | Redis | PostgreSQL | Node-RED
 - 🔧 &nbsp; Git | Docker | Jenkins | Caprover | Zsh
 - 🖥 &nbsp; IntelliJ | PyCharm | WebStorm | Visual Studio Code
 
