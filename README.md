@@ -10,9 +10,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | TypeScript | Scala | Python | Spring | NestJs | Django
-- 🌐 &nbsp; HTML | CSS | JavaScript | VueJs | Angular
-- 🛢 &nbsp; MySQL | MongoDB | Redis | PostgreSQL | Node-RED
+- 💻 &nbsp; Java | TypeScript | Scala | Python | Spring | Quarkus | NestJs | Django
+- 🌐 &nbsp; HTML | CSS | Angular | VueJs
+- 🛢 &nbsp; MySQL | MongoDB | Redis | PostgreSQL | Infinispan
 - 🔧 &nbsp; Git | Docker | Jenkins | OpenShift | Kubernetes | Spring Cloud
 - 🖥 &nbsp; IntelliJ | PyCharm | WebStorm | Visual Studio Code
 
