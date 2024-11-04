@@ -4,16 +4,16 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science and Data Science at University of Namur.
-- 💼 &nbsp; Working as a Developper at Arhs Digital.
+- 💼 &nbsp; Working as a Freelance Full Stack Developer
 - 🌱 &nbsp; Learning more about Kubernetes and SpringBoot.
 - ✍️ &nbsp; Cooking and walking in nature.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | Scala | Dart | Django | Play Framework
-- 🌐 &nbsp; HTML | CSS | JavaScript | VueJs | Nuxt | Vuetify | Angular
+- 💻 &nbsp; Java | TypeScript | Scala | Python | Spring | NestJs | Django
+- 🌐 &nbsp; HTML | CSS | JavaScript | VueJs | Angular
 - 🛢 &nbsp; MySQL | MongoDB | Redis | PostgreSQL | Node-RED
-- 🔧 &nbsp; Git | Docker | Jenkins | Caprover | Zsh
+- 🔧 &nbsp; Git | Docker | Jenkins | OpenShift | Kubernetes | Spring Cloud
 - 🖥 &nbsp; IntelliJ | PyCharm | WebStorm | Visual Studio Code
 
 <br/>
